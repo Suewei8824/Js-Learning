@@ -1,0 +1,5 @@
+[
+    {"main": "FrontEnd", "sub":["HTML", "CSS", "Javascript"]},
+    {"main": "BackEnd", "sub":["C#", "Database", "Algorithm"]},
+    {"main": "FullStack", "sub":["FrontEnd", "BackEnd"]}
+]
