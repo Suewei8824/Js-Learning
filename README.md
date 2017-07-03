@@ -1,2 +1,2 @@
 # Js-Learning
-Big Joe Learn Git With Little Sue
+Big Joe Learn JS With Little Sue
